@@ -1,0 +1,1 @@
+ your triangle has three sides width 34 , height 45, breadth are 56.4004
